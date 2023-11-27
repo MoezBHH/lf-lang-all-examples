@@ -1,8 +1,0 @@
-target C
-import Sparse from "../Sparse.lf"
-main reactor {
-    s = new Sparse()
-    reaction(startup) -> s.in {=
-        lf_set(s.in[12], 42);
-    =}
-}
