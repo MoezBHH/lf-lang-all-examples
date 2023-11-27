@@ -1,0 +1,14 @@
+/home/moez/AccountableAI/LFGPT/playground-lingua-franca/examples/C/src-gen/cody-code/TemperatureSensor_improved/build/CMakeFiles/TemperatureSensor_improved.dir
+/home/moez/AccountableAI/LFGPT/playground-lingua-franca/examples/C/src-gen/cody-code/TemperatureSensor_improved/build/CMakeFiles/edit_cache.dir
+/home/moez/AccountableAI/LFGPT/playground-lingua-franca/examples/C/src-gen/cody-code/TemperatureSensor_improved/build/CMakeFiles/rebuild_cache.dir
+/home/moez/AccountableAI/LFGPT/playground-lingua-franca/examples/C/src-gen/cody-code/TemperatureSensor_improved/build/CMakeFiles/list_install_components.dir
+/home/moez/AccountableAI/LFGPT/playground-lingua-franca/examples/C/src-gen/cody-code/TemperatureSensor_improved/build/CMakeFiles/install.dir
+/home/moez/AccountableAI/LFGPT/playground-lingua-franca/examples/C/src-gen/cody-code/TemperatureSensor_improved/build/CMakeFiles/install/local.dir
+/home/moez/AccountableAI/LFGPT/playground-lingua-franca/examples/C/src-gen/cody-code/TemperatureSensor_improved/build/CMakeFiles/install/strip.dir
+/home/moez/AccountableAI/LFGPT/playground-lingua-franca/examples/C/src-gen/cody-code/TemperatureSensor_improved/build/core/CMakeFiles/core.dir
+/home/moez/AccountableAI/LFGPT/playground-lingua-franca/examples/C/src-gen/cody-code/TemperatureSensor_improved/build/core/CMakeFiles/edit_cache.dir
+/home/moez/AccountableAI/LFGPT/playground-lingua-franca/examples/C/src-gen/cody-code/TemperatureSensor_improved/build/core/CMakeFiles/rebuild_cache.dir
+/home/moez/AccountableAI/LFGPT/playground-lingua-franca/examples/C/src-gen/cody-code/TemperatureSensor_improved/build/core/CMakeFiles/list_install_components.dir
+/home/moez/AccountableAI/LFGPT/playground-lingua-franca/examples/C/src-gen/cody-code/TemperatureSensor_improved/build/core/CMakeFiles/install.dir
+/home/moez/AccountableAI/LFGPT/playground-lingua-franca/examples/C/src-gen/cody-code/TemperatureSensor_improved/build/core/CMakeFiles/install/local.dir
+/home/moez/AccountableAI/LFGPT/playground-lingua-franca/examples/C/src-gen/cody-code/TemperatureSensor_improved/build/core/CMakeFiles/install/strip.dir
